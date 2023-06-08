@@ -1,5 +1,7 @@
 # Reinforcement Learning Final Project
 
+For Atari Games, I implemented DQN and Dueling DDQN. For Mujoco Robots, I implemented A3C and PPO.
+
 ## Structure
 
 ```shell
@@ -44,8 +46,25 @@ python3 main.py --env_name Hopper-v2 --method SAC
 
 ### Atari
 
-<figure class="third">     <img src="pic/Boxing.png">     <img src="pic/Breakout.png">     <img src="pic/Pong.png"> </figure>
+<table>
+    <tr>
+        <td ><center><img src="pic/Boxing.png"></center></td>
+        <td ><center><img src="pic/Breakout.png"></center></td>
+      <td ><center><img src="pic/Pong.png"></center></td>
+    </tr>
+</table> 
 
 ### Mujoco
 
-<img src="pic/Ant.png" alt="Ant" style="zoom:10%;" /><img src="pic/HalfCheetah.png" alt="HalfCheetah" style="zoom:10%;" /><img src="pic/Hopper.png" alt="Hopper" style="zoom:10%;" /><img src="pic/Humanoid.png" alt="Humanoid" style="zoom:10%;" />
+<table>
+    <tr>
+        <td ><center><img src="pic/Ant.png"></center></td>
+        <td ><center><img src="pic/HalfCheetah.png"></center></td>
+    </tr>
+</table>  
+<table>
+    <tr>
+      <td ><center><img src="pic/Hopper.png"></center></td>
+      <td ><center><img src="pic/Humanoid.png"></center></td>
+    </tr>
+</table>
