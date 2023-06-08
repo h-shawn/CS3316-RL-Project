@@ -44,20 +44,8 @@ python3 main.py --env_name Hopper-v2 --method SAC
 
 ### Atari
 
-<img src="pic/Boxing.png" alt="Boxing" style="zoom:25%;" />
-
-<img src="pic/Breakout.png" alt="Breakout" style="zoom:25%;" />
-
-<img src="pic/Pong.png" alt="Pong" style="zoom:25%;" />
-
-
+<img src="pic/Boxing.png" alt="Boxing" style="zoom:10%;" /><img src="pic/Breakout.png" alt="Breakout" style="zoom:10%;" /><img src="pic/Pong.png" alt="Pong" style="zoom:10%;" />
 
 ### Mujoco
 
-<img src="pic/Ant.png" alt="Ant" style="zoom:25%;" />
-
-<img src="pic/HalfCheetah.png" alt="HalfCheetah" style="zoom:25%;" />
-
-<img src="pic/Hopper.png" alt="Hopper" style="zoom:25%;" />
-
-<img src="pic/Humanoid.png" alt="Humanoid" style="zoom:25%;" />
+<img src="pic/Ant.png" alt="Ant" style="zoom:10%;" /><img src="pic/HalfCheetah.png" alt="HalfCheetah" style="zoom:10%;" /><img src="pic/Hopper.png" alt="Hopper" style="zoom:10%;" /><img src="pic/Humanoid.png" alt="Humanoid" style="zoom:10%;" />
