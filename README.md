@@ -44,7 +44,7 @@ python3 main.py --env_name Hopper-v2 --method SAC
 
 ### Atari
 
-<img src="pic/Boxing.png" alt="Boxing" style="zoom:10%;" /><img src="pic/Breakout.png" alt="Breakout" style="zoom:10%;" /><img src="pic/Pong.png" alt="Pong" style="zoom:10%;" />
+<figure class="third">     <img src="pic/Boxing.png">     <img src="pic/Breakout.png">     <img src="pic/Pong.png"> </figure>
 
 ### Mujoco
 
